@@ -44,12 +44,12 @@ For example in the prior part u1, u4, u5 or u2, u3 ,u5 user sets will cover all 
     [‘./u2.json’, ‘./u3.json’, ‘./u5.json’]  
 
 ## Solutions
-I choose Python to write my script for solutions since I feel more comfortable with it. Each part I took some steps to reach solution and my final answer. Those steps are also included to this repo.  
-**Part A steps**  
-    [a1](https://github.com/sahinmeric/qualabs/blob/fa55471775028a1f41d50c86b7ac3b35fc12439c/steps/a1.py)
-    [a2](https://github.com/sahinmeric/qualabs/blob/fa55471775028a1f41d50c86b7ac3b35fc12439c/steps/a2.py)
-    [a3](https://github.com/sahinmeric/qualabs/blob/fa55471775028a1f41d50c86b7ac3b35fc12439c/steps/a3.py)
-**Part A solution**:
-    [part_a](https://github.com/sahinmeric/qualabs/blob/fa55471775028a1f41d50c86b7ac3b35fc12439c/part_a.py)
+I choose Python to write my scripts since I feel more comfortable with it. The solution of each part I took some steps to reach my final answer. Those steps are also included to this repo.  
+--- **Part A** ---  
+    **Steps** [a1](https://github.com/sahinmeric/qualabs/blob/fa55471775028a1f41d50c86b7ac3b35fc12439c/steps/a1.py) [a2](https://github.com/sahinmeric/qualabs/blob/fa55471775028a1f41d50c86b7ac3b35fc12439c/steps/a2.py) [a3](https://github.com/sahinmeric/qualabs/blob/fa55471775028a1f41d50c86b7ac3b35fc12439c/steps/a3.py)  
+    **Answer**: [part_a](https://github.com/sahinmeric/qualabs/blob/fa55471775028a1f41d50c86b7ac3b35fc12439c/part_a.py)  
+    
+--- **Part B** ---    
+    **Steps** [b1](https://github.com/sahinmeric/qualabs/blob/f0289a6ef72a8271defeec83a4d01d7423690a08/steps/b1.py) [b2](https://github.com/sahinmeric/qualabs/blob/f0289a6ef72a8271defeec83a4d01d7423690a08/steps/b2.py) [b3](https://github.com/sahinmeric/qualabs/blob/f0289a6ef72a8271defeec83a4d01d7423690a08/steps/b3.py) [b4](https://github.com/sahinmeric/qualabs/blob/f0289a6ef72a8271defeec83a4d01d7423690a08/steps/b4.py)  
+    **Answer**: [part_b](https://github.com/sahinmeric/qualabs/blob/f0289a6ef72a8271defeec83a4d01d7423690a08/part_b.py)  
 
-**Solution for Part A** : 
