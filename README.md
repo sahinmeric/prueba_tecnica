@@ -55,11 +55,13 @@ I choose **Python** to write my scripts since I feel more comfortable with it. T
 
 **Answer**: [part_b](https://github.com/sahinmeric/qualabs/blob/f0289a6ef72a8271defeec83a4d01d7423690a08/part_b.py)  
 
+I completed this test in 20 hours total, spending 3 or 4 hours a day for 5 days.
 
 ## Getting Started 
 ### Dependencies
-To run the scripts you must need **Python 3.6** or above.  To install latest version of Python;  
+To run the scripts you must need **Python 3.6** or above.    
 ### Installing
+To install Python;
 **Windows** --> [Python Releases for Windows](https://www.python.org/downloads/windows/)  
 **Linux/UNIX***
 ```
@@ -82,6 +84,17 @@ $ python3 test_part_b.py
 or
 ```
 $ python3 -m unittest
+```
+### Style guide checking
+To check style **pycodestyle** must be installed.  
+
+Installation  
+```
+$ pip install pycodestyle
+```
+Usage  
+```
+$ pycodestyle part_a.py part_b.py
 ```
 ## Author
 
