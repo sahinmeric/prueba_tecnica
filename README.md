@@ -60,8 +60,7 @@ I completed this test in 20 hours total, spending 3 or 4 hours a day for 5 days.
 ## Getting Started 
 ### Dependencies
 To run the scripts you must need **Python 3.6** or above.    
-### Installing
-To install Python;
+### Installing 
 **Windows** --> [Python Releases for Windows](https://www.python.org/downloads/windows/)  
 **Linux/UNIX***
 ```
@@ -86,7 +85,7 @@ or
 $ python3 -m unittest
 ```
 ### Style guide checking
-To check style **pycodestyle** must be installed.  
+To check the style **pycodestyle** must be installed.  
 
 Installation  
 ```
