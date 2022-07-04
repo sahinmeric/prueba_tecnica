@@ -1,0 +1,7 @@
+{
+    "name": "User 11",
+    "provider": {
+        "content_module": "authz.provider_3",
+        "auth_module": "authn.provider_3"
+    }
+}
