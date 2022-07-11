@@ -17,6 +17,7 @@
       "./json/u8.json"
     ],
     "authn.provider_3": [
+      "./json/u0.json",
       "./json/u11.json",
       "./json/u12.json",
       "./json/u15.json",
@@ -50,6 +51,7 @@
       "./json/u5.json"
     ],
     "authz.provider_4": [
+      "./json/u0.json",
       "./json/u1.json",
       "./json/u12.json",
       "./json/u19.json",

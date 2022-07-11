@@ -68,14 +68,14 @@ def get_module_users():
 
             if auth_module not in modules.keys():
                 modules[auth_module] = {}
-            elif auth_mod_name not in modules[auth_module]:
+            if auth_mod_name not in modules[auth_module]:
                 modules[auth_module][auth_mod_name] = [user_json_filepath]
             else:
                 modules[auth_module][auth_mod_name].append(user_json_filepath)
 
             if content_module not in modules.keys():
                 modules[content_module] = {}
-            elif content_mod_name not in modules[content_module]:
+            if content_mod_name not in modules[content_module]:
                 modules[content_module][content_mod_name] = [user_json_filepath]
             else:
                 modules[content_module][content_mod_name].append(user_json_filepath)
