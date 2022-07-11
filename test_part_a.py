@@ -48,6 +48,26 @@ class TestPartA(unittest.TestCase):
             isJson = substr in file
             self.assertTrue(isJson, True)
 
+    def test_result_has_all_users(self):
+        """Tests if the result file contains all the users"""
+        path = "./json/"
+        users = []
+        module_users_json = "module_users.json"
+        module_users = []
+        for file in listdir(path):
+            users.append(path + file)
+
+        get_module_users()
+
+        with open(module_users_json, 'r') as f:
+            data = json.load(f)
+            for v in data.values():
+                for val in v.values():
+                    for user in val:
+                        module_users.append(user)
+        result = all(elem in module_users for elem in users)
+        self.assertTrue(result, True)
+
 
 if __name__ == '__main__':
     unittest.main()
