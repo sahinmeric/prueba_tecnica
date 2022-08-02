@@ -1,10 +1,10 @@
-# Qualabs Technical Test
+# Technical Test
 
-This repo contains my solutions for the technical test provided by Qualabs.
+This repo contains my solutions for the technical test provided by X.
 
 ## Description
 
-As described in pdf file [prueba_technica](https://github.com/sahinmeric/qualabs/blob/fa55471775028a1f41d50c86b7ac3b35fc12439c/Prueba%20Tecnica.pdf). Given two problems with 20 json files in the following structure.  
+As described in pdf file [prueba_technica](https://github.com/sahinmeric/prueba_tecnica/blob/fa55471775028a1f41d50c86b7ac3b35fc12439c/Prueba%20Tecnica.pdf). Given two problems with 20 json files in the following structure.  
 **JSON file structure**
 
     {
@@ -46,14 +46,14 @@ For example in the prior part **u1, u4, u5** or **u2, u3 ,u5** user sets will co
 ## Solutions
 I choose **Python** to write my scripts since I feel more comfortable with it. The solution of each part I took some steps to reach my final answer. Those steps are also included to this repo.  
 --- **Part A** ---  
-**Steps**: [a1](https://github.com/sahinmeric/qualabs/blob/fa55471775028a1f41d50c86b7ac3b35fc12439c/steps/a1.py) --> [a2](https://github.com/sahinmeric/qualabs/blob/fa55471775028a1f41d50c86b7ac3b35fc12439c/steps/a2.py) --> [a3](https://github.com/sahinmeric/qualabs/blob/fa55471775028a1f41d50c86b7ac3b35fc12439c/steps/a3.py)  
+**Steps**: [a1](https://github.com/sahinmeric/prueba_tecnica/blob/fa55471775028a1f41d50c86b7ac3b35fc12439c/steps/a1.py) --> [a2](https://github.com/sahinmeric/prueba_tecnica/blob/fa55471775028a1f41d50c86b7ac3b35fc12439c/steps/a2.py) --> [a3](https://github.com/sahinmeric/prueba_tecnica/blob/fa55471775028a1f41d50c86b7ac3b35fc12439c/steps/a3.py)  
 
-**Answer**: [part_a](https://github.com/sahinmeric/qualabs/blob/fa55471775028a1f41d50c86b7ac3b35fc12439c/part_a.py)  
+**Answer**: [part_a](https://github.com/sahinmeric/prueba_tecnica/blob/fa55471775028a1f41d50c86b7ac3b35fc12439c/part_a.py)  
     
 --- **Part B** ---    
-**Steps**: [b1](https://github.com/sahinmeric/qualabs/blob/f0289a6ef72a8271defeec83a4d01d7423690a08/steps/b1.py) --> [b2](https://github.com/sahinmeric/qualabs/blob/f0289a6ef72a8271defeec83a4d01d7423690a08/steps/b2.py) --> [b3](https://github.com/sahinmeric/qualabs/blob/f0289a6ef72a8271defeec83a4d01d7423690a08/steps/b3.py) --> [b4](https://github.com/sahinmeric/qualabs/blob/f0289a6ef72a8271defeec83a4d01d7423690a08/steps/b4.py) 
+**Steps**: [b1](https://github.com/sahinmeric/prueba_tecnica/blob/f0289a6ef72a8271defeec83a4d01d7423690a08/steps/b1.py) --> [b2](https://github.com/sahinmeric/prueba_tecnica/blob/f0289a6ef72a8271defeec83a4d01d7423690a08/steps/b2.py) --> [b3](https://github.com/sahinmeric/prueba_tecnica/blob/f0289a6ef72a8271defeec83a4d01d7423690a08/steps/b3.py) --> [b4](https://github.com/sahinmeric/prueba_tecnica/blob/f0289a6ef72a8271defeec83a4d01d7423690a08/steps/b4.py) 
 
-**Answer**: [part_b](https://github.com/sahinmeric/qualabs/blob/f0289a6ef72a8271defeec83a4d01d7423690a08/part_b.py)  
+**Answer**: [part_b](https://github.com/sahinmeric/prueba_tecnica/blob/f0289a6ef72a8271defeec83a4d01d7423690a08/part_b.py)  
 
 I completed this test in 20 hours total, spending 3 or 4 hours a day for 5 days.
 
@@ -70,8 +70,8 @@ $ sudo apt-get install python3.6
 
 ### Executing programs
 ```
-$ git clone https://github.com/sahinmeric/qualabs.git
-$ cd qualabs
+$ git clone https://github.com/sahinmeric/prueba_tecnica.git
+$ cd prueba_tecnica
 $ python3 part_a.py
 $ python3 part_b.py
 ```
