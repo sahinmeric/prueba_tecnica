@@ -4,7 +4,7 @@ This repo contains my solutions for the technical test provided by X.
 
 ## Description
 
-As described in pdf file [prueba_technica](https://github.com/sahinmeric/prueba_tecnica/blob/fa55471775028a1f41d50c86b7ac3b35fc12439c/Prueba%20Tecnica.pdf). Given two problems with 20 json files in the following structure.  
+As described in pdf file [prueba_tecnica](https://github.com/sahinmeric/prueba_tecnica/blob/fa55471775028a1f41d50c86b7ac3b35fc12439c/Prueba%20Tecnica.pdf). Given two problems with 20 json files in the following structure.  
 **JSON file structure**
 
     {
